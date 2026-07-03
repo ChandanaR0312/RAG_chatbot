@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+chromadb
+sentence-transformers==3.0.1
+pypdf
+python-dotenv
+torch==2.2.2
+transformers==4.44.2
+numpy<2
